@@ -1,0 +1,11 @@
+manufacturer: Generic
+model: Workstation
+slug: generic-workstation
+u_height: 0
+is_full_depth: false
+power-ports:
+  - name: Power Supply
+    type: iec-60320-c14
+interfaces:
+  - name: eth0
+    type: 1000base-t

@@ -1,0 +1,8 @@
+manufacturer: Generic
+model: Laptop
+slug: generic-laptop
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: wlan0
+    type: ieee802.11ac
