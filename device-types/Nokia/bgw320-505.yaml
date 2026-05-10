@@ -1,0 +1,30 @@
+---
+manufacturer: Nokia
+model: BGW320-505
+slug: nokia-bgw320-5050
+part_number: BGW320-505
+u_height: 0
+is_full_depth: false
+airflow: passive
+power-ports:
+  - name: Power
+    type: dc-terminal
+console-ports:
+  - name: Phone
+    type: rj-11
+  - name: USB
+    type: usb-a
+interfaces:
+  - name: ONT
+    type: 5gbase-t
+  - name: LAN 1
+    type: 5gbase-t
+  - name: LAN 2
+    type: 1000base-t
+  - name: LAN 3
+    type: 1000base-t
+  - name: LAN 4
+    type: 1000base-t
+module-bays:
+  - name: SFP
+    type: 10gbase-x-sfpp
