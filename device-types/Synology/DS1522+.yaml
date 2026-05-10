@@ -12,6 +12,11 @@ is_full_depth: false
 power-ports:
   - name: PSU
     type: dc-terminal
+console-ports:
+  - name: Front USB
+    type: usb-a
+  - name: Rear USB
+    type: usb-a
 interfaces:
   - name: LAN 1
     type: 1000base-t
