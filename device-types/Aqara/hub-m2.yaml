@@ -1,0 +1,17 @@
+---
+manufacturer: Aqara
+model: Hub M2
+slug: aqara-hub-m2
+part_number: HM2-G01
+u_height: 0
+is_full_depth: false
+airflow: passive
+power-ports:
+  - name: Power
+    type: usb-micro-b
+console-ports:
+  - name: USB
+    type: usb-a
+interfaces:
+  - name: LAN
+    type: 100base-tx
