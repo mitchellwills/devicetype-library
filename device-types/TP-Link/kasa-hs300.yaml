@@ -1,0 +1,45 @@
+---
+manufacturer: TP-Link
+model: Kasa HS300
+slug: tp-link-kasa-hs300
+part_number: HS300
+is_full_depth: false
+u_height: 0
+airflow: passive
+interfaces:
+  - name: wlan0
+    type: ieee802.11n
+power-ports:
+  - name: Power
+    type: nema-5-15p
+power-outlets:
+  - name: Plug 1
+    type: nema-5-15r
+    power_port: Power
+  - name: Plug 2
+    type: nema-5-15r
+    power_port: Power
+  - name: Plug 3
+    type: nema-5-15r
+    power_port: Power
+  - name: Plug 4
+    type: nema-5-15r
+    power_port: Power
+  - name: Plug 5
+    type: nema-5-15r
+    power_port: Power
+  - name: Plug 6
+    type: nema-5-15r
+    power_port: Power
+  - name: USB 1
+    type: usb-a
+    power_port: Power
+    description: 5V/2.4A
+  - name: USB 2
+    type: usb-a
+    power_port: Power
+    description: 5V/2.4A
+  - name: USB 3
+    type: usb-a
+    power_port: Power
+    description: 5V/2.4A

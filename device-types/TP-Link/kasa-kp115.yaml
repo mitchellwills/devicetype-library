@@ -1,0 +1,18 @@
+---
+manufacturer: TP-Link
+model: Kasa KP115
+slug: tp-link-kasa-kp115
+part_number: KP115
+is_full_depth: false
+u_height: 0
+airflow: passive
+interfaces:
+  - name: wlan0
+    type: ieee802.11n
+power-ports:
+  - name: Power
+    type: nema-5-15p
+power-outlets:
+  - name: Outlet
+    type: nema-5-15r
+    power_port: Power

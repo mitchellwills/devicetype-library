@@ -1,0 +1,14 @@
+---
+manufacturer: Samsung
+model: Bespoke AI All-in-One Washer Dryer
+slug: samsung-bespoke-ai-all-in-one
+part_number: WD53DBA900HZ
+u_height: 0
+is_full_depth: false
+airflow: passive
+power-ports:
+  - name: Power
+    type: nema-5-15p
+interfaces:
+  - name: wlan0
+    type: ieee802.11ac

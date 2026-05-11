@@ -1,0 +1,15 @@
+---
+manufacturer: Google
+model: Nest Mini
+slug: google-nest-mini
+comments: '[Google Nest Mini](https://store.google.com/product/google_nest_mini)'
+u_height: 0
+is_full_depth: false
+airflow: passive
+power-ports:
+  - name: Power
+    type: dc-terminal
+    maximum_draw: 15
+interfaces:
+  - name: wlan0
+    type: ieee802.11ac

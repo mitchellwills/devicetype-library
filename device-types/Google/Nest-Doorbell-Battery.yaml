@@ -1,0 +1,16 @@
+---
+manufacturer: Google
+model: Nest Doorbell (battery)
+slug: google-doorbell-battery
+comments: '[Nest Doorbell (battery)](https://store.google.com/product/nest_doorbell_specs)'
+u_height: 0
+is_full_depth: false
+weight: 7.3
+weight_unit: oz
+airflow: passive
+power-ports:
+  - name: Power
+    type: usb-c
+interfaces:
+  - name: wlan0
+    type: ieee802.11ac

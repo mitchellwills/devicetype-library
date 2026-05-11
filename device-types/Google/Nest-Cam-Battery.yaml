@@ -1,0 +1,17 @@
+---
+manufacturer: Google
+model: Nest Cam (battery)
+slug: google-cam-battery
+comments: '[Nest Cam (battery)](https://store.google.com/product/nest_cam_battery_specs)'
+u_height: 0
+is_full_depth: false
+weight: 14.04
+weight_unit: oz
+airflow: passive
+power-ports:
+  - name: Power
+    type: usb-a
+    maximum_draw: 8
+interfaces:
+  - name: wlan0
+    type: ieee802.11n

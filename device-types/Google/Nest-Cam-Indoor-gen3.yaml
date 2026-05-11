@@ -1,0 +1,17 @@
+---
+manufacturer: Google
+model: Nest Cam Indoor (gen3)
+slug: google-cam-indoor-gen3
+comments: '[Nest Cam Indoor (gen3)](https://store.google.com/product/nest_cam_indoor_wired_3rd_gen_specs)'
+u_height: 0
+is_full_depth: false
+weight: 14.1
+weight_unit: oz
+airflow: passive
+power-ports:
+  - name: Power
+    type: usb-c
+    maximum_draw: 8
+interfaces:
+  - name: wlan0
+    type: ieee802.11ac

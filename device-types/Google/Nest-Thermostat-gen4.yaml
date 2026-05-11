@@ -1,0 +1,16 @@
+---
+manufacturer: Google
+model: Nest Learning Thermostat (4th gen)
+slug: google-nest-learning-thermostat-gen4
+comments: '[Nest Learning Thermostat (4th gen)](https://store.google.com/product/nest_learning_thermostat_4th_gen_specs)'
+u_height: 0
+is_full_depth: false
+weight: 5.7
+weight_unit: oz
+airflow: passive
+power-ports:
+  - name: Power
+    type: hardwired
+interfaces:
+  - name: wlan0
+    type: ieee802.11n
