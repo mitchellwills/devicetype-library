@@ -7,7 +7,7 @@ interfaces:
   - name: Wi-Fi
     type: ieee802.11ac
   - name: Bluetooth
-    type: other-wireless
+    type: ieee802.15.1
   - name: Cellular
     type: other-wireless
 console-ports:

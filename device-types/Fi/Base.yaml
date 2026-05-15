@@ -12,4 +12,4 @@ interfaces:
   - name: wlan0
     type: ieee802.11ac
   - name: Bluetooth
-    type: other-wireless
+    type: ieee802.15.1
